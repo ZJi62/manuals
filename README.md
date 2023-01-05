@@ -97,3 +97,7 @@ fetch와 pull
 [EUNI 깃허브 주소](https://github.com/euni62)
 
 [EUNI 깃허브 주소](https://github.com/euni62, "클릭하면 EUNI의 깃허브로 이동합니다.")
+
+# 저장소 이미지 삽입하기
+
+![예시 이미지](./cep.png)
