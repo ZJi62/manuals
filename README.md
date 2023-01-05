@@ -84,7 +84,7 @@ fetch와 pull
 <script>
   let now = new Date();
   let display = new.toLocaleTimeString();
-  document.write(₩현재 시각은 ${display} 입니다.₩);
+  document.write(`현재 시각은 ${display} 입니다.`);
 </script>
 ```
 
