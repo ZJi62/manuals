@@ -76,17 +76,17 @@ fetch와 pull
 
 # 소스 코드
 
-한 줄 짜리 소스 코드는 ₩function add(x, y) { return x + y; }` 처럼 사용합니다.
+한 줄 짜리 소스 코드는 `function add(x, y) { return x + y; }` 처럼 사용합니다.
 
 # 소스 코드(여러 줄)
 
-₩₩₩javascript
+```javascript
 <script>
   let now = new Date();
   let display = new.toLocaleTimeString();
   document.write(₩현재 시각은 ${display} 입니다.₩);
 </script>
-₩₩₩
+```
 
 소스 입력 끝!
 
